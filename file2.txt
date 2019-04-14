@@ -1,4 +1,0 @@
-brijesh
-git
-hello 
-world
